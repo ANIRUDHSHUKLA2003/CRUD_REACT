@@ -1,0 +1,17 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "ANIRUDH SHUKLA",
+      "email": "anirudhshukla2003@gmail.com",
+      "phone": "8005466304"
+    },
+    {
+      "id": "2gti ",
+      "name": "ANIRUDH SHUKLAA",
+      "email": "anirudhshukla2003@gmail.com",
+      "phone": "8005466307",
+      "active": true
+    }
+  ]
+}
